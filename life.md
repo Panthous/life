@@ -2,5 +2,8 @@
 ===============
 
 - 1992 Born
-- ~2008 Built a computer
-- 2011 First job
+- 2008 First PC
+- 2010 18 years old
+- 05/2011 First job
+- 07/2011 First smartphone (Nexus S)
+- 05/2012 Second smartphone (Galaxy Nexus)
